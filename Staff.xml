@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StaffInfo>
+
+    <Staff>
+		<empNo>1075</empNo>
+        <name>Upul Dissanayake</name>
+        <gender>Male</gender>
+        <address>17/8,Gamagoda</address>
+        <telNo>0714448906</telNo>
+    </Staff>
+	
+	 <Staff>
+		<empNo>2038</empNo>
+        <name>Ajith Priyantha</name>
+        <gender>Male</gender>
+        <address>72/4,Dehiwala</address>
+        <telNo>0782234569</telNo>
+    </Staff>
+	
+	 <Staff>
+		<empNo>3521</empNo>
+        <name>Priyani Edirimanna</name>
+        <gender>Female</gender>
+        <address>44/8,Mount Lavinia</address>
+        <telNo>0714565008</telNo>
+    </Staff>
+	
+	 <Staff>
+		<empNo>4465</empNo>
+        <name>Anoma Peiris</name>
+        <gender>Female</gender>
+        <address>52/8,Borella</address>
+        <telNo>0762934500</telNo>
+    </Staff>
+	
+</StaffInfo>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientInfo>
+
+    <Patient>
+		<patientID>104</patientID>
+        <initial>K.D.</initial>
+        <surname>Silva</surname>
+        <age>53</age>
+        <address>40/5 Mathugama</address>
+        <teleNo>0774435008</teleNo>
+        <allergies>Peanuts</allergies>
+        <bloodType>B</bloodType>
+        <roomNo>8</roomNo>
+        <code>MA01</code>
+    </Patient>
+	
+    <Patient>
+		<patientID>105</patientID>
+        <initial>L.G.</initial>
+        <surname>Pieris</surname>
+        <age>35</age>
+        <address>425/1 Maharagama</address>
+        <teleNo>0744369800</teleNo>
+        <allergies>None</allergies>
+        <bloodType>O</bloodType>
+        <roomNo>12</roomNo>
+        <code>MP02</code>
+    </Patient>
+	
+	<Patient>
+		<patientID>106</patientID>
+        <initial>M.A.</initial>
+        <surname>Perera</surname>
+        <age>28</age>
+        <address>18/1 Serupita</address>
+        <teleNo>0762259800</teleNo>
+        <allergies>Lactose</allergies>
+        <bloodType>B</bloodType>
+        <roomNo>11</roomNo>
+        <code>MP02</code>
+    </Patient>
+</PatientInfo>
+
+
+
+
+
