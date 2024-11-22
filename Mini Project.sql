@@ -1,1 +1,0 @@
-Deleted Mini Project.sql
